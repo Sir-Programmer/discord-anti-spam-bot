@@ -4,16 +4,10 @@
  - Fast
  - With accuracy
 
-**STEP 1: Open CMD and follow Bot Location!**
-`cd <botlocation>`
+**STEP 1: Install Packages**
+`npm i` or `open install.bat`
 
-**STEP 2: Add better discord anti spam to your project**
-`npm i better-discord-antispam`
-
-**STEP 3: Add discord.js to your project**
-`npm i discord.js`
-
-**STEP 3: Run bot**
+**STEP 2: Run bot**
 `node index.js` or `open start.bat`
 
 [SP SOFT](https://sp-soft.ir) | [Web](https://karamlou.com) | [Telegram](https://t.me/sir_programmer)
