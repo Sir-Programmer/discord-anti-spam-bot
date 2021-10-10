@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "better-discord-antispam": "^2.0.0",
+    "discord.js": "^13.2.0"
+  }
+}
